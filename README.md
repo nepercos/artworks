@@ -1,4 +1,4 @@
-# nepercos-artworks
+# artworks
 
 Bu depo, Nepercos YouTube kanalının kullandığı görseller içindir.
 
